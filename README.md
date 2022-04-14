@@ -1,8 +1,8 @@
 <h1>Hangman</h1>
 <p>
 Hangman App developed via Flutter.</br>
-Visit bq Scanner at https://ritikpatle.github.io/hangman/ <br><br>
-Visit bq Scanner's Policies at https://sites.google.com/view/fhangman/home
+Visit Hangman at https://ritikpatle.github.io/hangman/ <br><br>
+Visit Hangman's Policies at https://sites.google.com/view/fhangman/home
 </p>
 
 <p>
